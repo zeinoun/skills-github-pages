@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+# title: Welcome to my personal page content
 ---
+
+This is personal content information
+
